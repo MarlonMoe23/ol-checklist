@@ -1,4 +1,4 @@
-Voy a actualizar la página principal para incluir un campo de observaciones al final del formulario.
+Voy a actualizar la página principal para incluir un campo de observaciones al final del formulario...
 
 === Start File ===
 app/page.tsx
